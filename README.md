@@ -1,19 +1,15 @@
 # CodeCurrent Platform Tooling
 
-Welcome to the **CodeCurrent Platform Tooling** organization.
+Shared tooling, templates, and developer-experience resources for the **CodeCurrent** enterprise.
 
-Our mission is to make software delivery simpler, faster, and more reliable for everyone by sharing practical tooling and reusable templates.
+> **Note:** This organization is used for **demonstration purposes**. Repositories may contain sample or experimental code and are not intended for production use.
 
-## What we provide
+## About
 
-- Delivery-focused templates for repositories, workflows, and project setup
-- Automation tooling to support CI/CD, quality checks, and release flows
-- Opinionated best-practice starters for consistent engineering standards
+This is the `.github` repository for the **codecurrent-platform-tooling** organization. It contains the organization profile and shared community health files.
 
-## Who this is for
-
-This organization is for teams and individuals who want proven, ready-to-use resources to improve how software is planned, built, tested, and shipped.
+- **Organization profile** — see [`profile/README.md`](profile/README.md) for the public-facing overview shown on the organization page.
 
 ## Contributing
 
-Contributions are welcome. If you have ideas for better templates or tooling, please open an issue or pull request in the relevant repository.
+Contributions are welcome. If you have ideas for new templates, tooling improvements, or better defaults, please open an issue or pull request in the relevant repository.
